@@ -1,0 +1,33 @@
+
+body{
+    background-color: green;
+}
+.containor{
+    background-color: aliceblue;
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 60px;
+    margin: 0 auto;
+    margin-top: 10%;
+    box-shadow: inset 0 0 10px black;
+    text-shadow: 2px 2px 2px black;
+
+}
+#topNumber{
+  padding-left: 5%;
+
+
+
+}
+#middleNumber{
+
+    text-align: center;
+     margin-top: 20%;
+}
+#bottomNumber{
+ text-align: right;   
+margin-top: 25%;
+padding-right: 5%;
+}
